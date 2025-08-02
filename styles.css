@@ -181,7 +181,7 @@ footer {
     margin-top: 3rem;
 }
 
-/* Scroll animation */
+
 .fade-up {
     opacity: 0;
     transform: translateY(30px);
